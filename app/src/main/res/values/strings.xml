@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spotsoon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_one">EMPTINESS FT.JUSTICE TIBLEKAR</string>
+    <string name="text_two">I AM FALLING LOVE WITH YOU</string>
+    <string name="text_three">BABY FT.JUSTIN BABER</string>
+    <string name="text_four">WHITE HORSE FT.TAYLOR SWIFT</string>
+    <string name="text_five">18 HOURS AGO</string>
+    <string name="text_six">13 HOURS AGO</string>
+    <string name="play">Chain smoker new album </string>
+
+</resources>
